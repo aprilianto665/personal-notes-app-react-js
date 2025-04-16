@@ -18,9 +18,9 @@ Proyek ini merupakan bagian dari submission kelas Belajar Membuat Aplikasi Web d
 
 # 🛠️ Teknologi
 
-- React JS (create-react-app)
+- React JS
 
-* CSS sederhana untuk styling
+* CSS
 
 # 📚 Tentang Submission Ini
 

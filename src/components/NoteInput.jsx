@@ -49,7 +49,7 @@ export default class NoteInput extends React.Component {
 
   render() {
     return (
-      <div className="note-input">
+      <div className="note-input neumorphic">
         <h2>Buat Catatan</h2>
         <div className="note-input__body">
           <p className="note-input__title__char-limit">

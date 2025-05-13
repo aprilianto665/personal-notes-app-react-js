@@ -14,7 +14,7 @@ export default class NoteHeader extends React.Component {
 
   render() {
     return (
-      <div className="note-app__header">
+      <div className="note-app__header neumorphic">
         <h1>Notes</h1>
         <div className="note-search">
           <input
